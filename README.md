@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm [Your Name]! 👋</h1>
+<h1 >Hi, I'm [Your Name]! 👋</h1>
 
-<p align="center">
+<p >
   <img src="https://komarev.com/ghpvc/?username=your-username&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
@@ -8,15 +8,15 @@
 
 ## 🚀 About Me
 - 🌟 I'm a passionate **Flutter Developer**!  
-- 🌍 I speak **English, [Other Languages]**.  
-- 🌱 I’m currently learning **[Your Current Learning Tech]**.  
+- 🌍 I speak **English, Arabic**.  
+- 🌱 I’m currently learning **Clean Architecture**.  
 - 💬 Ask me about **Flutter | Dart | Firebase**.  
 
 ---
 
 ## 🌍 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/zeyad-ahmed-13b41b205" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -47,7 +47,7 @@
 ---
 
 ### 🎯 **Final Steps:**
-1. **Replace `[Your Name]`, `[Your Current Learning Tech]`, and profile links** with your own.  
+1. **Replace `Zeyad Ahmed`, `Clean Architecture`, and profile links** with your own.  
 2. **Push the updated `README.md` to your GitHub profile repo.**  
 
 ---
