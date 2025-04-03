@@ -28,9 +28,17 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/SQFLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQFLite"/>
+  <img src="https://img.shields.io/badge/Hive-FFD700?style=for-the-badge&logo=hive&logoColor=black" alt="Hive DB"/>
+  <img src="https://img.shields.io/badge/Cubit-0052CC?style=for-the-badge&logo=bloc&logoColor=white" alt="Cubit"/>
+  <img src="https://img.shields.io/badge/Provider-FF5722?style=for-the-badge&logo=provider&logoColor=white" alt="Provider"/>
+  <img src="https://img.shields.io/badge/API%20Integration-FF9800?style=for-the-badge&logo=postman&logoColor=white" alt="API Integration"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ML Kit"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/MVVM-008000?style=for-the-badge&logo=android&logoColor=white" alt="MVVM"/>
 </p>
 
 ---
@@ -46,10 +54,4 @@
 
 ---
 
-### 🎯 **Final Steps:**
-1. **Replace `Zeyad Ahmed`, `Clean Architecture`, and profile links** with your own.  
-2. **Push the updated `README.md` to your GitHub profile repo.**  
 
----
-
-Would you like any further customizations, such as animations or a dynamic quote generator? 🚀
