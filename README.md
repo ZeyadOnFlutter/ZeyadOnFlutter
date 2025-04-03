@@ -1,7 +1,7 @@
-<h1 >Hi, I'm [Your Name]! 👋</h1>
+<h1 >Hi, I'm Zeyad Ahmed! 👋</h1>
 
 <p >
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=codingking02&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
