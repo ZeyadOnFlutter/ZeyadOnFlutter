@@ -86,8 +86,8 @@
 
 <div align="center">
 
-[![Sight Seer](https://github-readme-stats.vercel.app/api/pin/?username=ZeyadOnFlutter&repo=sight-seer&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ZeyadOnFlutter/sight-seer)
-[![Ecommerce App](https://github-readme-stats.vercel.app/api/pin/?username=ZeyadOnFlutter&repo=ecommerce-flutter&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ZeyadOnFlutter/ecommerce-flutter)
+[![Sight Seer](https://github-readme-stats.vercel.app/api/pin/?username=ZeyadOnFlutter&repo=sight-seer&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ZeyadOnFlutter/sight_seer_app)
+[![Ecommerce App](https://github-readme-stats.vercel.app/api/pin/?username=ZeyadOnFlutter&repo=ecommerce-flutter&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ZeyadOnFlutter/ecommerce)
 
 </div>
 
