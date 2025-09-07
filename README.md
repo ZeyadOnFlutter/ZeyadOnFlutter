@@ -1,160 +1,143 @@
+# 👋 Hello, I'm Zeyad Ahmed Mohamed
+
 <div align="center">
-  
-# 👋 Hello World! I'm Zeyad Ahmed
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Flutter+Developer+%F0%9F%9A%80;Clean+Architecture+Enthusiast;Mobile+App+Wizard+%E2%9C%A8" alt="Typing SVG" />
+**Mobile Application Developer | Flutter & React Native | Clean Architecture Enthusiast**
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyad-ahmed-13b41b205/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeyadOnFlutter)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeyadismailo2002@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ZeyadOnFlutter&style=flat-square&color=blue)
 
 </div>
 
 ---
 
-## 🎯 **About Me**
+## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+Mobile Application Developer with hands-on experience in building cross-platform apps using **Flutter** and **React Native**. Skilled in clean architecture, modern state management, and delivering responsive, user-friendly solutions with strong API integration.
 
-- 🔭 **Currently working on:** Compound Management App (Zahra)
-- 🌱 **Learning:** Advanced Clean Architecture & Scalable Flutter Apps
-- 💡 **Passionate about:** Building pixel-perfect, responsive mobile experiences
-- 🎓 **Education:** Computer Science Graduate from Arab Academy (GPA: 3.2/4.0)
-- 📱 **Specialty:** Cross-platform mobile development with Flutter
+- 🎓 **Education:** Bachelor of Computer Science from Arab Academy (GPA: 3.2/4.0)
+- 📱 **Specialty:** Cross-platform mobile development (Flutter & React Native)
+- 🏗️ **Architecture:** Clean Architecture, MVVM, OOP principles
 - 🌍 **Languages:** Arabic (Native), English (Fluent)
 - 📍 **Location:** Alexandria, Egypt
 
-<br clear="right"/>
+---
+
+## 💼 Professional Experience
+
+### 🚀 **React Native Intern** - *Venustusy* (Aug 2025 – Present)
+- Working on **Scrap**, a mobile application for car scrap and spare parts
+- Implementing and refining **UI components** in React Native for optimal user experience
+- Collaborating with development team using **Agile workflow** and **Git/GitHub** for version control
+
+### 🏢 **Freelance Flutter Developer** - *Zahra Project* (Nov 2024 – Present)
+- Developed compound management app with **secure authentication** and **payment processing**
+- Created interactive UI components and responsive design
 
 ---
 
-## 🚀 **Tech Arsenal**
+## 🛠️ Tech Stack
 
-<div align="center">
+### **Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **Core Technologies**
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp" alt="Flutter, Dart, Firebase, C++"/>
-</p>
+### **Backend & Database**
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### **Development Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,arduino" alt="Git, GitHub, Postman, Arduino"/>
-</p>
+### **State Management**
+![Provider](https://img.shields.io/badge/Provider-FF6B6B?style=for-the-badge)
+![Cubit](https://img.shields.io/badge/Cubit-0052CC?style=for-the-badge)
 
-### **Databases & Storage**
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,sqlite" alt="Firebase, SQLite"/>
-  <img src="https://img.shields.io/badge/Hive-FFD700?style=for-the-badge&logo=hive&logoColor=black" alt="Hive"/>
-  <img src="https://img.shields.io/badge/Shared_Preferences-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Shared Preferences"/>
-</p>
-
-### **State Management & Architecture**
-<p>
-  <img src="https://img.shields.io/badge/Provider-FF5722?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider"/>
-  <img src="https://img.shields.io/badge/Cubit-0052CC?style=for-the-badge&logo=bloc&logoColor=white" alt="Cubit"/>
-  <img src="https://img.shields.io/badge/Clean_Architecture-00C851?style=for-the-badge&logo=architecture&logoColor=white" alt="Clean Architecture"/>
-  <img src="https://img.shields.io/badge/MVVM-008000?style=for-the-badge&logo=android&logoColor=white" alt="MVVM"/>
-</p>
-
-</div>
+### **Tools & Others**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
-## 📊 **GitHub Analytics**
+## 🎯 Featured Projects
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZeyadOnFlutter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&icon_color=00D4FF&title_color=00D4FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadOnFlutter&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF"/>
-</div>
+### 🛒 **Ecommerce App** (2025)
+**Tech:** Flutter, Cubit, REST APIs, Clean Architecture
+- Full-featured eCommerce app with authentication, product browsing, cart, and wishlist
+- Implemented clean architecture with proper state management
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZeyadOnFlutter&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub Streak"/>
-</div>
+### 🎬 **Movies App** (2025) - *Group Project*
+**Tech:** Flutter, Cubit, YTS.mx API, Clean Architecture
+- Movie browsing app with API integration and real-time data
+- User favorites management with Cubit state management
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeyadOnFlutter&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
+### 📅 **Evently** (2025)
+**Tech:** Flutter, Firebase, Provider, Maps Integration
+- Event discovery app with Firebase authentication
+- Bilingual support and dynamic profile updates
+- Integrated maps for event locations
 
----
+### 📰 **News App** (2025)
+**Tech:** Flutter, Cubit, Provider, MVVM Architecture
+- Categorized news app with real-time API updates
+- Persistent settings and clean MVVM architecture
 
-## 🏆 **Featured Projects**
+### 🕌 **Islami** (2024)
+**Tech:** Flutter, Provider, Audio Players, APIs
+- Islamic app with Quran recitations and prayer times
+- Hadith browser and radio streaming features
 
-<div align="center">
+### 👁️ **Sight Seer** (2024) - *Graduation Project*
+**Tech:** Flutter, Google ML Kit, MQTT, Arduino, ESP32-CAM
+- Smart assistive device for visually impaired users
+- Face/text recognition with voice commands
+- Live streaming integration with hardware components
 
-[![Sight Seer](https://github-readme-stats.vercel.app/api/pin/?username=ZeyadOnFlutter&repo=sight-seer&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ZeyadOnFlutter/sight-seer)
-[![Ecommerce App](https://github-readme-stats.vercel.app/api/pin/?username=ZeyadOnFlutter&repo=ecommerce-flutter&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ZeyadOnFlutter/ecommerce-flutter)
-
-</div>
-
-### 🌟 **Project Highlights**
-
-| Project | Technologies | Description |
-|---------|-------------|-------------|
-| **🏢 Zahra** | Flutter, Firebase, Payment APIs | Compound management with secure auth & payments |
-| **🛒 Ecommerce** | Cubit, REST APIs, Clean Architecture | Full-featured shopping app with cart & auth |
-| **🎬 Movies App** | Cubit, YTS.mx API, Group Project | Movie browser with favorites & real-time data |
-| **👁️ Sight Seer** | Google ML Kit, MQTT, Arduino | AI assistive device for visually impaired users |
-| **🕌 Islami** | Provider, Audio Players, APIs | Islamic app with Quran, prayers & radio |
-
----
-
-## 📈 **Coding Activity**
-
-<div align="center">
-  
-<!--START_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ZeyadOnFlutter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="WakaTime Stats"/>
-<!--END_SECTION:waka-->
-
-</div>
+### 💼 **Jobsque** (2023)
+**Tech:** Flutter, Provider, API Integration
+- Job portal app with secure login and 2FA
+- Resume uploads and dynamic profile management
 
 ---
 
-## 🎓 **Certifications & Learning Journey**
+## 📊 GitHub Stats
 
 <div align="center">
 
-| 🏆 **Certification** | 🏢 **Institution** | 📅 **Year** |
-|---------------------|-------------------|-------------|
-| Flutter Development Diploma | Route Academy | 2025 |
-| Flutter Diploma | Amit Learning | 2023 |
-| Flutter Development Course | Udemy | 2023 |
-| English Language Training | Amideast | 2018 |
-| Egyptian Robotics Olympiad | World Robot Olympiad | 2017 |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeyadOnFlutter&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadOnFlutter&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 🌟 **Connect & Collaborate**
+## 🏆 Certifications & Achievements
+
+- 🎓 **Flutter Development Diploma** - Route Academy (2025)
+- 🎓 **Flutter Diploma** - Amit Learning (2023)
+- 🎓 **Flutter Development Course** - Udemy (2023)
+- 🌍 **English Language Training Program** - Amideast (2018)
+- 🤖 **Egyptian Robotics Olympiad Participant** - World Robot Olympiad (2017)
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to discussing new opportunities, collaborating on interesting projects, or just having a chat about mobile development!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyad-ahmed-13b41b205/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeyadismailo2002@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeyadOnFlutter)
-
-<img src="https://komarev.com/ghpvc/?username=ZeyadOnFlutter&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+**"Building the future, one widget at a time 🚀"**
 
 </div>
 
 ---
 
 <div align="center">
-
-## 💭 **Dev Philosophy**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=50&lines=Clean+Code+%E2%9C%A8+Pixel+Perfect+UI+%E2%9C%A8+Scalable+Architecture;Building+the+future%2C+one+widget+at+a+time+%F0%9F%9A%80" alt="Philosophy"/>
-
-### *"Great software is built with passion, crafted with precision, and delivered with purpose."*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-### 🚀 **Let's Build Something Amazing Together!**
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer&animation=fadeIn" width="100%"/>
+  <i>⭐️ From <a href="https://github.com/ZeyadOnFlutter">ZeyadOnFlutter</a></i>
 </div>
