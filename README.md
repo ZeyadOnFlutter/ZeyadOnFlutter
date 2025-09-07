@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Mobile+App+Developer+%F0%9F%9A%80;Flutter+%26+React+Native;Clean+Architecture+Enthusiast;Mobile+App+Wizard+%E2%9C%A8" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif?raw=true" width="900" autoplay loop>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 🎯 **About Me**
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif?raw=true" autoplay loop>
 
 - 🔭 **Currently working on:** React Native Intern at Venustusy (Scrap App)
 - 🏢 **Freelance Project:** Compound Management App (Zahra)
@@ -33,10 +33,10 @@
 
 ### **Core Technologies**
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase,cpp" alt="Flutter, Dart, React Native, Firebase, C++"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase" alt="Flutter, Dart, React Native, Firebase"/>
 </p>
 
-### **Languages**
+### **Programming Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,dart,cpp" alt="JavaScript, TypeScript, Dart, C++"/>
 </p>
@@ -157,7 +157,7 @@
 
 ### *"Great software is built with passion, crafted with precision, and delivered with purpose."*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif?raw=true" width="700" autoplay loop>
 
 ### 🚀 **Let's Build Something Amazing Together!**
 
