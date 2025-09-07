@@ -62,16 +62,16 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codingking02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&icon_color=00D4FF&title_color=00D4FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingking02&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZeyadOnFlutter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&icon_color=00D4FF&title_color=00D4FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadOnFlutter&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=codingking02&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZeyadOnFlutter&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codingking02&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeyadOnFlutter&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -80,8 +80,8 @@
 
 <div align="center">
 
-[![Sight Seer](https://github-readme-stats.vercel.app/api/pin/?username=codingking02&repo=sight-seer&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/codingking02/sight-seer)
-[![Ecommerce App](https://github-readme-stats.vercel.app/api/pin/?username=codingking02&repo=ecommerce-flutter&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/codingking02/ecommerce-flutter)
+[![Sight Seer](https://github-readme-stats.vercel.app/api/pin/?username=ZeyadOnFlutter&repo=sight-seer&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ZeyadOnFlutter/sight-seer)
+[![Ecommerce App](https://github-readme-stats.vercel.app/api/pin/?username=ZeyadOnFlutter&repo=ecommerce-flutter&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ZeyadOnFlutter/ecommerce-flutter)
 
 </div>
 
@@ -102,7 +102,7 @@
 <div align="center">
   
 <!--START_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@codingking02&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="WakaTime Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ZeyadOnFlutter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="WakaTime Stats"/>
 <!--END_SECTION:waka-->
 
 </div>
