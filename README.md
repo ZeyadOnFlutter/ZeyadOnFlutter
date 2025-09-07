@@ -82,6 +82,15 @@
 
 ---
 
+## 🏆 **Featured Projects**
+
+<div align="center">
+
+[![Sight Seer](https://github-readme-stats.vercel.app/api/pin/?username=ZeyadOnFlutter&repo=sight_seer_app&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ZeyadOnFlutter/sight_seer_app)
+[![Ecommerce App](https://github-readme-stats.vercel.app/api/pin/?username=ZeyadOnFlutter&repo=ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ZeyadOnFlutter/ecommerce)
+
+</div>
+
 ### 🌟 **Project Highlights**
 
 | Project | Technologies | Description |
@@ -103,7 +112,7 @@
 <div align="center">
   
 <!--START_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZeyadOnFlutter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="WakaTime Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=8dc287d5-2017-4e64-8a8c-bae1d742b757&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="WakaTime Stats"/>
 <!--END_SECTION:waka-->
 
 </div>
